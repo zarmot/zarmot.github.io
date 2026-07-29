@@ -1,0 +1,3 @@
+[submodule "themes/hugo-zark"]
+	path = themes/hugo-zark
+	url = https://github.com/zarmot/hugo-zark.git
